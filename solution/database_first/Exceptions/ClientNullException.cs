@@ -2,7 +2,7 @@
 
 public class ClientNullException : Exception
 {
-    public ClientNullException(int clientId) : base($"there is no client with the given id {clientId}")
+    public ClientNullException(int clientId) : base($"there is no client with given id {clientId}")
     {
         
     }
