@@ -9,16 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ba752e7b-9737-420d-b93d-aa26ef70dd50" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/database_first/Exceptions/ClientHasTripException.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.solution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.solution/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database_first/Controller/TripController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/database_first/Controller/TripController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database_first/Exceptions/ClientNullException.cs" beforeDir="false" afterPath="$PROJECT_DIR$/database_first/Exceptions/ClientNullException.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database_first/Repository/ITripRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/database_first/Repository/ITripRepository.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database_first/Repository/TripRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/database_first/Repository/TripRepository.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database_first/Services/ITripService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/database_first/Services/ITripService.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database_first/Services/TripService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/database_first/Services/TripService.cs" afterDir="false" />
-    </list>
+    <list default="true" id="ba752e7b-9737-420d-b93d-aa26ef70dd50" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -134,7 +125,7 @@
       <workItem from="1716743426454" duration="789000" />
       <workItem from="1716748088809" duration="1867000" />
       <workItem from="1716756463286" duration="712000" />
-      <workItem from="1716800352659" duration="2966000" />
+      <workItem from="1716800352659" duration="11361000" />
     </task>
     <servers />
   </component>
